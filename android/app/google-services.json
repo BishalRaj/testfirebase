@@ -1,0 +1,39 @@
+ {
+  "project_info": {
+    "project_number": "402016848046",
+    "project_id": "pos-stock-inventory",
+    "storage_bucket": "pos-stock-inventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402016848046:android:fc38f7fb4ce35c6082853f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402016848046-iu0rgssabhui7sha4nalsvndiaclpoe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ecD0V9vvZKFV34I7rh-wA98tz3aNYqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402016848046-iu0rgssabhui7sha4nalsvndiaclpoe4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
